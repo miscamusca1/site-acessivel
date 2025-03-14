@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
     });
 diminuiFonteBotao.addEventListener('click', function(){
-    tamanhoAtualFONTE -=0.1;
+    tamanhoAtualFonte-=0.1;
     document.body.style.fontSize = `${tamanhoAtualFonte}rem`;
      });
     });
